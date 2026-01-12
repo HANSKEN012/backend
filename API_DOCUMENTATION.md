@@ -1,4 +1,4 @@
-# StreamFlix API Documentation
+# Rio tube API Documentation
 
 ## Table of Contents
 - [Overview](#overview)
@@ -13,7 +13,7 @@
 
 ## Overview
 
-StreamFlix is a RESTful API for a video streaming platform. This API provides endpoints for user authentication, video management, categorization, playlist management, and watch history tracking.
+Rio tube is a RESTful API for a video streaming platform. This API provides endpoints for user authentication, video management, categorization, playlist management, and watch history tracking.
 
 ### Features
 - User registration and authentication
@@ -731,7 +731,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=streamflix
+DB_DATABASE=Rio tube
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -753,5 +753,5 @@ php artisan storage:link
 
 ---
 
-This documentation provides a complete reference for the StreamFlix API. For additional examples and testing instructions, see THUNDER_CLIENT_TESTING_GUIDE.md.
+This documentation provides a complete reference for the Rio tube API. For additional examples and testing instructions, see THUNDER_CLIENT_TESTING_GUIDE.md.
 
